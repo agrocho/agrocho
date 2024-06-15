@@ -3,76 +3,71 @@ tags:
   - CrabsAndCaverns
   - Guide
 ---
-# Preface
->This project is only possible thanks to people by you.
 
-<br>
+## What is Crabs and Caverns?
+Crabs and Caverns is an entirely free, ***[Markdown-Formatted](https://en.wikipedia.org/wiki/Markdown)*** tabletop [^GameSystem] roleplaying game made in ***[Obsidian](https://obsidian.md/)***. Beginning in 2024, C&C was designed and built by a community of people who wanted the best tabletop game experience possible, for both the physical and digital world.
+
+A major issue that plagues online tabletop games are the perils of PDF's; using game systems designed for the pen-and-paper age on a computer requires the players to jump and dive between a number of semi-related PDFs that may or may not have the information they are searching for. In fact, this was the main motivator for C&C.
+
+This document is best experienced in Obsidian, although it likely can be used in other Markdown editors.[^markdown] Alternatively, I regret to inform you that this document can be exported and shared as a PDF.
+
+This User's Encyclopedia serves as one monolithic resource for Crabs and Caverns, First Edition. We wanted to set out to prove that the 'puter was mightier than the pen. No more saying, "Oh, I don't think it's in this book," or, "That book looks cool, but it's on backorder." 
+
+Instead, C&C aims to be as close to a one-and-done file as possible. As the game matures, new editions of the system will have new editions of the User's Encyclopedia and Game Master's Encyclopedia released. This allows for major edition releases that incorporate community feedback.
+
+A quick point, regarding the name; Crabs and Caverns was a temporary title to help denote that this was a game of "things" and "places," and how they interact. As we all know, temporary fixes tend to last the longest. 
 
 ---
-# 1. Introduction and Overview - DO NOT EDIT
->[!faq] This section is an introduction to the Crabs and Caverns (C&C) game system.
-## What is Crabs and Caverns?
->Crabs and Caverns is an entirely free, ***[Markdown-Formatted](https://en.wikipedia.org/wiki/Markdown)*** tabletop [^GameSystem] roleplaying game made in ***[Obsidian](https://obsidian.md/)***. Beginning in 2024, C&C was designed and built by a community of people who wanted the best tabletop game experience possible, for both the physical and digital world.
->
->A major issue that plagues online tabletop games are the perils of PDF's; using game systems designed for the pen-and-paper age on a computer requires the players to jump and dive between a number of semi-related PDFs that may or may not have the information they are searching for. In fact, this was the main motivator for C&C.
->
->This document is best experienced in Obsidian, although it likely can be used in other Markdown editors.[^markdown] Alternatively, I regret to inform you that this document can be exported and shared as a PDF.
->
->This User's Encyclopedia serves as one monolithic resource for Crabs and Caverns, First Edition. We wanted to set out to prove that the 'puter was mightier than the pen. No more saying, "Oh, I don't think it's in this book," or, "That book looks cool, but it's on backorder." 
->
->Instead, C&C aims to be as close to a one-and-done file as possible. As the game matures, new editions of the system will have new editions of the User's Encyclopedia and Game Master's Encyclopedia released. This allows for major edition releases that incorporate community feedback.
->
->A quick point, regarding the name; Crabs and Caverns was a temporary title to help denote that this was a game of "things" and "places," and how they interact. As we all know, temporary fixes tend to last the longest. 
-
-<br>
 
 ## How is Crabs and Caverns Constructed?
->Crabs and Caverns can be divided into two separate sections:
->
->>[!Example] Official Material:
->> - This includes the User's Encyclopedia, the Game Masters' Encyclopedia, and First-Party Modules released directly from the Crabs and Caverns team.
->
->>[!Abstract] Community Material:
->> - This includes Third-Party Modules, like community-made story modules, equipment expansions, and other reference modules.
->---
->Official Material is made of a baseline of material originating from the Crabs and Caverns team. That being said, Community Material that has overwhelming support by the community can and will be adopted into Official Material.
->
->For example, a homebrew rule for grappling that a majority of players like more than the Official interpretation can and will be adopted into the Official Material if the community believes that it should be adopted. 
->
->In addition to adding items, the community can vote to remove aspects of the system. If players don't like a rule, or if a weapon simply doesn't make sense, then there's no reason to keep it. Crabs and Caverns is an ever-changing, community driven project.
+Crabs and Caverns can be divided into two separate sections:
+
+### Official Material:
+ - This includes the User's Encyclopedia, the Game Masters' Encyclopedia, and First-Party Modules released directly from the Crabs and Caverns team.
+ 
+### Community Material:
+- This includes Third-Party Modules, like community-made story modules, equipment expansions, and other reference modules.
 
 <br>
+
+Official Material is made of a baseline of material originating from the Crabs and Caverns team. That being said, Community Material that has overwhelming support by the community can and will be adopted into Official Material.
+
+For example, a homebrew rule for grappling that a majority of players like more than the Official interpretation can and will be adopted into the Official Material if the community believes that it should be adopted. 
+
+In addition to adding items, the community can vote to remove aspects of the system. If players don't like a rule, or if a weapon simply doesn't make sense, then there's no reason to keep it. Crabs and Caverns is an ever-changing, community driven project.
+
+---
 
 ## On Integrity, Ethics, and Morals
 
->This section serves to lay a foundation for the Crabs and Caverns game system's governing policies. We also require that Community Material creators follow the same behavior. Those who do not conform to these really, *really* easy requirements will be removed from the community. 
->
->>[!check] Crabs and Caverns will ALWAYS:
->>
->>1. Be easy to use, easy to teach, easy to learn, and easy to build.
->>2. Listen and implement community feedback, and maintain our core integrity.
->>3. Help creators make and adapt fun and engaging stories for all to play.
->>4. Use the metric system in both Official and Community Material.
->>5. Support the community of creators who want to bring their stories to life. 
->
->>[!failure] Crabs and Caverns will NEVER:
->>
->>6. Require payment for the game system, Official Material or Community Material.
->>7. Work for every setting and story.[^Story]
->>8. Allow content creators to hold game content ransom in exchange for payment. 
->>9. Attempt to steer the project down a path the community doesn't want to follow. 
->>10. Be perfect. Everything is a compromise; if you have a good homebrew rule, write it down and publish it as Community Material!
->
->>[!Warning] Highlighting Point 8:
->>Crabs and Caverns module creators are *forbidden* from charging money in exchange for game content. If you make content, you make content for everyone.
->>
->>That being said, people are free to donate to module creators; if you feel like someone has made something worth paying for, you can donate as much as you please.
->  
-> If we make a bad decision regarding the soul of the project, call us out. You, the reader, are a part of the checks and balances that keeps Crabs and Caverns in line. Don't you ever forget that.
->
->Crabs and Caverns is designed for, shaped by, and possible because of people like ***you***.
+This section serves to lay a foundation for the Crabs and Caverns game system's governing policies. We also require that Community Material creators follow the same behavior. Those who do not conform to these really, *really* easy requirements will be removed from the community. 
 
-<br>
+### Crabs and Caverns will ALWAYS:
+
+1. Be easy to use, easy to teach, easy to learn, and easy to build.
+2. Listen and implement community feedback, and maintain our core integrity.
+3. Help creators make and adapt fun and engaging stories for all to play.
+4. Use the metric system in both Official and Community Material.
+5. Support the community of creators who want to bring their stories to life. 
+
+### Crabs and Caverns will NEVER:
+
+6. Require payment for the game system, Official Material or Community Material.
+7. Work for every setting and story.
+8. Allow content creators to hold game content ransom in exchange for payment. 
+9. Attempt to steer the project down a path the community doesn't want to follow. 
+10. Be perfect. Everything is a compromise; if you have a good homebrew rule, write it down and publish it as Community Material!
+
+Highlighting Point 8:
+>Crabs and Caverns module creators are *forbidden* from charging money in exchange for game content. If you make content, you make content for everyone.
+
+That being said, people are free to donate to module creators; if you feel like someone has made something worth paying for, you can donate as much as you please.
+
+ If we make a bad decision regarding the soul of the project, call us out. You, the reader, are a part of the checks and balances that keeps Crabs and Caverns in line. Don't you ever forget that.
+
+Crabs and Caverns is designed for, shaped by, and possible because of people like ***you***.
+
+---
 
 ## Navigating This Document
 
