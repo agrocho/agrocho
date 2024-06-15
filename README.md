@@ -1,9 +1,3 @@
----
-tags:
-  - CrabsAndCaverns
-  - Guide
----
-
 ## What is Crabs and Caverns?
 Crabs and Caverns is a Free and Open Source Tabletop Roleplaying Game System (FOSTRGS?) designed to be played by a group of 4-6 adventurers and one Game Master. It's meant to play like a Tabletop Roleplaying Game, but it's designed from the start for use in our modern digital world.
 
