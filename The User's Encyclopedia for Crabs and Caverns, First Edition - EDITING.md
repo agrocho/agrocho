@@ -86,3 +86,7 @@ If you really have the urge to spend some money, go make a donation to your pref
 I haven't linked any particular ones here because C&C is for everyone, and picking one group to donate to will inevitably anger someone. Go put some time, money, and effort into whatever cause *you* think is worth it. I don't know, dude. Just go be a good person.
 
 Why are you reading this? Go click on one of the files up top and get crabbin'.
+
+
+[^story]: This was an early goal that simply wasn't feasible. Baseline Crabs and Caverns is designed for a high-fantasy world, similar to other fantasy game systems. I'd have loved for it to be something that applied to every world, but that simply is too broad of a brush to paint with imo.
+[^payment]: As stated above, you are ABSOLUTELY allowed to donate money to someone's Patreon or OnlyFans or whatever. Content Creators, however, are not allowed to hold content from people in exchange for money. If you make something (a new rule for grappling, a new subclass, or a setting you'd like to share) for someone, you make something for everyone.
